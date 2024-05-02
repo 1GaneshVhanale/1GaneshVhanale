@@ -1,3 +1,5 @@
+<img align="right" alt="coding" width="100%" src="https://media.licdn.com/dms/image/D5616AQGQgT6PLs_BPg/profile-displaybackgroundimage-shrink_350_1400/0/1710760083617?e=1720051200&v=beta&t=55z66VBmRMUi5pS_nUzXYMM4pMK6Nl6ndy8utiDpQZ8">
+
 <h1 align="center">Hi 👋, I'm Ganesh Vhanale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
